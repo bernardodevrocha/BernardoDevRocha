@@ -72,7 +72,7 @@ Sou desenvolvedor web especializado em construção de sistemas completos com fo
 ## Dashboard de Atividade
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BernardoDevRocha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BernardoDevRocha&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoDevRocha&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 </div>
 
