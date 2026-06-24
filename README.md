@@ -20,7 +20,7 @@
 
 ## Sobre mim
 
-Sou desenvolvedor web especializado em construção de sistemas completos com foco em **TypeScript**, **React** e **Angular**. Tenho experiência com infraestrutura em nuvem e paixão por criar produtos escaláveis e bem estruturados.
+Desenvolvedor web especializado em construção de sistemas completos **NodeJS** com foco em **TypeScript**, **React** e **Angular**. Tenho experiência com infraestrutura em nuvem **AWS** e paixão por criar produtos escaláveis e bem estruturados.
 
 - Especialista em **Desenvolvimento Web** com TypeScript, React e Angular
 - Experiência com **PHP / Laravel** para aplicações back-end robustas
